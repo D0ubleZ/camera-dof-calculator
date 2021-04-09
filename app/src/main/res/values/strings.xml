@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_add_len">AddLen</string>
+    <string name="make">Make</string>
+    <string name="title_activity_dofcalculate">Dofcalculate</string>
+    <string name="hyperfocal_distance">Hyperfocal Distance</string>
+    <string name="near_focal_distance">Near Focal Distance</string>
+    <string name="far_focal_distance">Far Focal Distance</string>
+    <string name="photo_detils_with">Photo detils with</string>
+    <string name="circle_of_confusion_m">Circle of Confusion [m]</string>
+    <string name="distance_of_subject_m">Distance of Subject [m]</string>
+    <string name="depth_of_field">Depth of Field</string>
+    <string name="ex_1_5_for_1_5m">ex: 1.5 for 1.5m</string>
+    <string name="selected_aperture">Selected Aperture</string>
+    <string name="ex_0_3_for_0_3m">ex: 0.3 for 0.3m</string>
+    <string name="ex_2_8_for_2_8">ex: 2.8 for 2.8</string>
+    <string name="_0_029">0.029</string>
+    <string name="calculate">Calculate</string>
+    <string name="focal_length_mm">Focal Length [mm]</string>
+    <string name="aperture">Aperture</string>
+    <string name="save">Save</string>
+    <string name="cancel">CANCEL</string>
+    <string name="ex_200_for_200mm">ex: 200 for 200mm</string>
+    <string name="ex_canon">ex: Canon</string>
+    <string name="ex_2_8_for_f2_8">ex: 2.8 for F2.8</string>
+    <string name="title_activity_emptystate">Emptystate</string>
+</resources>
